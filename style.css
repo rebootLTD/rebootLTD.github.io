@@ -11,7 +11,8 @@ html, body{
 svg {
     display: block;
     font: 10.5em 'Montserrat';
-    width: 960px;
+    /* width: 960px; */
+    width:95%;
     height: 300px;
     margin: 0 auto;
 }
